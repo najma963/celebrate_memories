@@ -86,13 +86,13 @@ const ReservationForm = () => {
             <div className="contact-info">
                 <h3>Contact Us</h3>
                 <ul>
-                    <li>Phone: +93 745 216 020</li>
+                    <li>Phone: +93 *** *** ***</li>
                     <li>Email: najmarajabi1@gmail.com</li>
                     <li>
                         Facebook: <a href="https://www.facebook.com/yourpage" target="_blank" rel="noopener noreferrer">Our Facebook Page</a>
                     </li>
                     <li>
-                        Instagram: <a href="https://www.instagram.com/yourpage" target="_blank" rel="noopener noreferrer">@naj45ma</a>
+                        Instagram: <a href="https://www.instagram.com/yourpage" target="_blank" rel="noopener noreferrer">@naj**ma</a>
                     </li>
                 </ul>
             </div>
