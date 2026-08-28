@@ -1,0 +1,17 @@
+.gallery-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 40px 20px;
+    background-color: #f4f4f4;
+    text-align: center;
+
+}
+
+.gallery-image {
+    width: 100%;
+    height: 460px;
+    object-fit: cover;
+
+}
