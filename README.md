@@ -1,7 +1,6 @@
 # 🎉 Celebrate Memories
 
-![Celebrate Memories]
-(celebrate-memories.PNG)
+![Celebrate Memories](./celebrate-memories.PNG)
 
 **Celebrate Memories** is a responsive React website designed for event decoration services, including weddings, birthdays, and other special celebrations.
 
